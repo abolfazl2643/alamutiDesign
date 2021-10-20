@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="736" viewBox="0 0 414 736">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAB8ElEQVR4Ae3WA8idYRiH8TltcbaV3eJspiHNzDxfmm17WbMX5jgzc+Zn87+ruuft6bw6qOeq3+FrN/tHPp/P57sJmbvIuz5A5isS7T4KDZ9DtQLnMRXb0ARBZhem4BwWI1ItsRbfkzEWw9iw5KwTSqE0laITQtUCl6A0VkA2bAu4OgT9oQSHTAn0h/0I1UbIDDOCHL9vhKvxKIJMCfrC4rOthCnCWASuDxqggBrQB65GQeYw/uwwZBg2XNugkLbFuAJjEaoHUEgP8L/GBjyEijEegSuEQirE/9of/CTm9wBNRi0UUR1mZOMyOhoVSa2AtdhxI2vCNky1YVbk26PEhzx/mONzTG2BQtoCVyMgMwmJNAj1UED1GIR/NQfdsRsyJ9AL8xB726GAtuNfTYLgMgux1hrXoDRdQ2v8q9OQKUMKBSiHzGXEXhvsQiP0H43YZcP+r7Z4CiGF7xVAeIl2SKyh2IMXqDIv7LehsAKvQMqxAlnPfQjBPsucRvYLfxIzTE7mvozutt/mIG8aAZkxSKwOmIHNOIsXeA2Z13iBszbMDHRAVhuCVXgJhfQSqzAEGWssbkMxu42xSKzuuAEl7Aa6I9ZGohDKkEKMRCwNRAWUYRUYiMidgrLkFCJXDGVJMSKnbPIr4FcgqrzM5/P5vgHkwqSdkGf1cgAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <filter id="Rectangle_20" x="-9" y="-3" width="432" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1" x="-3" y="677" width="420" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 128 128">
+      <image width="128" height="128" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAQAAABpN6lAAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfhCxECAwM/GbV7AAAC3UlEQVR42u2cvU4UURiGX1YsNDFBxX/XhFgaGxtLG+MF2Ngbr8LWy7DQVmtpMMZYEgEVEVZYEuMFYEJiSCR4LNZigTNwzuye7z0z532m291hvudhFjKzswMIIYQQQgghhBBCCCGEHTOYYY/Ao4t5ODjM4wZ7FI5+H+7/sllegmH9QYIueySmvoNDv5wEPv1Bguvs0Zj6Dg4b7U9wlH4BCbrYPCD8Ei8OPLKOa+wx0+n3D+l30CklgV8fgCfB9/YlqNavSnCVPbKdfusTHK/vT9DDFfbodvqtTRCu70+w1uwEcfqtSxCvX5XgMlvFTt+fYLV5CerrtyLBaPr+BN9wia1lp9/oBOPR9ydYwUW2np2+P8HXvBOMV79xCcavX5XgAlvVTt+fYDm/BOn0G5Egrb4/wRdMs7Xt9LNOYKOfbQI7fX+Czzhfjr4/wSdeAnv9rBJw9P0JlnCuHP0sEnD1/QkW7RLw9akJ8tCvSnC2HH1/goXYBBOR+u9xc98jr/EEf2kBgA6e49G+RxbwAL/SbOy4qztyWT5iKoX+JJboaqHLm3Ct8LfAbSyn2bES4DCNrbCXhv8BO822imACJ0NfyvsLngnFB5istZbDGfbgHmZxzy7Ab7ath706KxX/FlAA9gBsFIA9ABsFYA/ARgHYA7BRAPYAbOodC6Te2h6c1UhWe0AHz7CF3cBlB6+4n/r6uDt0zi3+uOtp9Hm9t9HbeDe0dvAllVZ7wOPoNe7bfJXWKsBUjXWSf8pjGSBbig9g+29wwEP8qHxuzvqyJ0aANfQqn9u1Hqb4t4ACsAdgowDsAdgoAHsANgrAHoCNArAHYFN8gHoHQ53ok2LDoeeOOOQZ/lLkLP5EbaPWjRbqHg2OsueEnuoyualW8W+B8ABxuyMXh53xB1jBT7ZXMB+wneLH3jl0L7g8l8WYO5TGXS5/ArdwKunvbnS20bP7YE0IIYQQQgghhBBCCNE0/gHXPcTpBGppKgAAAC56VFh0ZGF0ZTpjcmVhdGUAAHjaMzIwNNc1NNQ1NA8xMLIyMLYyMNI2MLAyMAAAQVMFA3sFLL8AAAAuelRYdGRhdGU6bW9kaWZ5AAB42jMyMDTXNTTUNTQPMTCyMjC2MjDSNjCwMjAAAEFTBQNSOoQ3AAAAAElFTkSuQmCC"/>
+    </pattern>
+    <filter id="Rectangle" x="-7.5" y="301.5" width="429" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="-21" y="286" width="456" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-4"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="-15" y="297" width="444" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-4" x="-7.5" y="222.5" width="429" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-6"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-5" x="-21" y="207" width="456" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-7"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-6" x="-15" y="218" width="444" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-7" x="-7.5" y="143.5" width="429" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-9"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-8" x="-21" y="128" width="456" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-10"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-9" x="-15" y="139" width="444" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_6_7_8_Plus_3">
+      <rect width="414" height="736"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_Plus_3" data-name="iPhone 6, 7, 8 Plus – 3" clip-path="url(#clip-iPhone_6_7_8_Plus_3)">
+    <rect width="414" height="736" fill="#fff"/>
+    <rect id="baseline_engineering_black_24dp" width="48" height="48" rx="12" transform="translate(339 241)" opacity="0.46" fill="url(#pattern)"/>
+    <image id="baseline_shopping_basket_black_24dp" width="48" height="48" transform="translate(339 157)" opacity="0.46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABoElEQVRYw+2UPU/CQBzGf+1gjMaJpSS+QDB8EOPANyBlcMAYkYFPZUKcNGFSXpSJ2UFJHIFBAgsQDHGwDhzQ0tJSejUx4bml7V1/z93zvzvY6n/pjCZNzsPCHzPAwGBILByDRwzRKijy8VdzvIFBTjb+RMQza5JjUigLcIOGeKrKjOlaQMckSTIWbzfy4hkKZAGAgtyYFCoCWBOhKNRkxpQTsAEnDiXPB8XH5vFkLd+z4uuIeLB4qgJUsvWVloLbSHkB6aPZ+jT6QWOKMxKItGN/ev2YUrQt51RGa5NaGLSk4w0MWgAqADuh3L57C4PnUAxeFgZPoRiYqIf8hFADy956k47/mIJV+3LkBuTHoEOGKFEydPxVYLqlJp4HJzIfHfE8mN8cLDtWPH7RLaN1j9H12UB11ZJsqru8uQS0voE/lZ3u/k9pEfVNEzfpVlqR75yXdeG5j3Q0NHTPPXTpbBCVdmEcrSrNqxT8uxmpup2+4LfoHxhYtctX4IAm7K9ewYT7wPN/YOzWnaAbaP5dTr1mkKBIbyN4j6I3fqut/OsX3L5vNRTKfwIAAAAASUVORK5CYII="/>
+    <image id="baseline_maps_home_work_black_24dp" width="48" height="48" transform="translate(337 319)" opacity="0.46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAAxklEQVRYw+3RvxGCMBSA8c+jskltyQQOwAxuwBJuwBKOkCFcgA3sqe0ovaOIlTk884dIgoXvvQrI8Tv4QEZmuzFfrAB5gRP3sgAcuOYGFBqNstc7zjzyAQ0DBsNAM7t75JYDqOiY7MGJjso+23PxvGgxUNN/HO6pvckTgZbR+cEjrSd5AqDQwb/qTr4YeGUNbUryQNbQxpI7AVfW0L4njwK+rKGdJ48CqS/3RRTgd0DxyH8KxAKujixAVqB4ZAEE2ACQkVkzTxx/VP7qQ+8MAAAAAElFTkSuQmCC"/>
+    <text id="املاک" transform="translate(283 351)" fill="#707070" font-size="18" font-family="IRANSansX-DemiBold, IRANSansX" font-weight="300"><tspan x="0" y="0">املاک</tspan></text>
+    <text id="مواد_غذایی" data-name="مواد غذایی" transform="translate(245 188)" fill="#707070" font-size="18" font-family="IRANSansX-DemiBold, IRANSansX" font-weight="300"><tspan x="0" y="0">مواد غذایی</tspan></text>
+    <text id="کسب_و_کار" data-name="کسب و کار" transform="translate(250 275)" fill="#707070" font-size="18" font-family="IRANSansX-DemiBold, IRANSansX" font-weight="300"><tspan x="0" y="0">کسب و کار</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_20)">
+      <rect id="Rectangle_20-2" data-name="Rectangle 20" width="414" height="54" fill="#08d44c" opacity="0.46"/>
+    </g>
+    <text id="ثبت_آگهی" data-name="ثبت آگهی" transform="translate(305 33)" fill="#fff" font-size="22" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">ثبت آگهی</tspan></text>
+    <text id="دسته_بندی_آگهی_خود_را_انتخاب_کنید" data-name="دسته بندی آگهی خود را انتخاب کنید" transform="translate(84 79)" font-size="21" font-family="IRANSansX-UltraLight, IRANSansX" font-weight="100"><tspan x="0" y="21">دسته بندی آگهی خود را انتخاب کنید</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="414" height="54" transform="translate(0 682)" fill="#08d44c" opacity="0.46"/>
+    </g>
+    <text id="خانه" transform="translate(359 727)" font-size="15" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">خانه</tspan></text>
+    <text id="دسته_بندی_" data-name="دسته بندی " transform="translate(257 727)" font-size="15" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">دسته بندی</tspan><tspan y="0"> </tspan></text>
+    <text id="ثبت_آگهی-2" data-name="ثبت آگهی" transform="translate(176 728)" font-size="15" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">ثبت آگهی</tspan></text>
+    <text id="پیام_ها" data-name="پیام ها" transform="translate(103 727)" font-size="15" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">پیام ها</tspan></text>
+    <text id="الموتی_من" data-name="الموتی من" transform="translate(9 727)" font-size="15" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">الموتی من</tspan></text>
+    <rect id="home-128x128-528039" width="36" height="35" transform="translate(354 682)" opacity="0.91" fill="url(#pattern-2)"/>
+    <image id="app-128x128-527984" width="35" height="35" transform="translate(276 682)" opacity="0.91" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAQAAABpN6lAAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfhCxECBSG8I1MZAAACbUlEQVR42u3cPU4bYRSF4UPAUrwEhGnSRgJEQ+uCNllCdkEiJSuIvItZAogqKVJSIRp3dprEYglGsWKnQEK2BsT1nc8cxX4fd+OZy5kjjWU8PxIAAAAAAACATbK11Nrbeqt247850u8n3ulor/H0sfr6W6KauiMNNSvwmqpSqza9pUrTIvOHOlrF7u8U2v371+fa/C8Fpw+0Xb6Ag4IBZ7qqzb8qOv8guluvwgU0P/bnvQ4saSKcNl7AmtpJbTXRr8RWbe0G17zVODF//5GP1oJOFj5nM07nJtzU3r2Ze/c0NX/+Q/okutHGHwIU4A7gRgHuAG4U4A7gRgHuAG4U4A7gRgHuAG4U4A7gRgHuAG4U4A7gRgHuAG4U4A7gRgHuAG65U2Pt1Lmb4xWsuZjqxQrY1bfUdlFfVzp9wcYfAhQQXnOkWcG/OwosyZsVnfagKnYBy0Td2vSuJsXmV/GdWuYyuZbO9L7ApSwj9fTjkeVdnRW4TO5O5+pp0ngOAABYe8t9Efqod//BF6EL9fSnWENz1vKrcFyn0O0M96/L2vzLgtOn6kR3K/7f4N6St9c8N+35JXlb8Wn8HuAO4Jb7TfBWHxJbHYd/6/uk68T8Knw/QuMCxvqe2i7qOjU/c5MFhwAFuAO4UYA7gBsFuAO4UYA7gBsFuAO4UYA7gBsFuAO4UYA7gBsFuAO4UYA7gBsFuAO4UYA7gFvuzNB+6llS8ev5q+SjtF6sgJbepLaLSpzjy9r4QyBeQOrU45PuAkuaCKeNF9DXz4IBzwNL8obqF5z24FCDQlfwrPahqgMdxneKx+oCAAAAAAAA2Cj/ALytYYHW6WawAAAALnpUWHRkYXRlOmNyZWF0ZQAAeNozMjA01zU01DU0DzEwsjIwtTI20jYwsDIwAABBfwUIbBj/FwAAAC56VFh0ZGF0ZTptb2RpZnkAAHjaMzIwNNc1NNQ1NA8xMLIyMLUyNtI2MLAyMAAAQX8FCEUnV58AAAAASUVORK5CYII="/>
+    <image id="chatting-128x128-527969" width="38" height="38" transform="translate(105 682)" opacity="0.91" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAQAAABpN6lAAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfhCxECBizpv3xnAAADGElEQVR42u3cPWgTYRgH8H+itKJWbItgJwcFFXSQoh1bQQcHi/hFBZeCgrSDHVQshRZExMHB3e8pxTi11UEdFFyE4qKDWkonS6cK1WioTeJQwUtySd4Lz3PPpff/ZepxefM8//vIvcmlABEREREREREREREREVEsJAKtfQy92GBdcg1ZTOKFztAjKDTIY8S9Kfc9oB3zaFLeelKW0YFFt1WTzoPubJj2gSbscl3VPYBgZwtrztW6B7BGra/rWYu4bV24j+to0xy+y3OWnbXu1desp8Iu1yfF/hBgANYFWGMA1gVYYwDWBVhjANYFWGMA1gVYi30A9c0GK0tiFJfQrlTtElK4it/aofhzmw2OqX/e96jia0diNnhRfUOcx0bJ4aQDaFYPIClbs3QAz9QDmMLPKAdwBePIqTVfwAT6ZYeUfhfI4BwuYItSABksSQ8pHcBqmRmlABTE/kKIAVgXYI0BWBdgLfYBaLwNblOcDc5HPYDNeIyTil+lv0UfFiQHlD4E7uCU6p0E3XgiO6B0AKcVm191VPZCWzoA/U9r/mA5ygHcUw/gAbKSw0mfBG8ih35sVWr+B1IYUxq7Jt4hsjYxAOsCrDEA6wKsMQDrAqwxAOsCrDEA6wKsxT6A+maDrbhRtqyAr0hXmavvRS82qfbSqjp60Wyw0uN9hRbX4RZyof5uzGg2eAgDPku34zWGo3qwuZeVd1qrs2xJDz6gJ/S+3KoNFMCM00dRxeMlMIxX6Ai9/SxmNIYdQr7msffUs34bpkx+N5rHZfemgrwL3MU0jvvco7Uf3T5rH0QaO0qWfcIbjS1T5Bcm8U79VYoM+OwBg8iWbZmHsje4RUdpAC1IlTWfkb65SYr8l6P7kMaekmVfcAYfrVvV490D5pAp2/rjaLEuMbwASh9ZDFqXV53G/QH/zeEspq1brE7zAnUCnVFvXy+AFVzDCXy3bq82nUPgG/rCvhipl8QeUCj5+yUONEr7Mg57zvorGI3qxFdPAs//tb+AI9bFBC9eQjOGsBufcd/1n9cQERERERERERERERERUcj+Ana93W2usZmCAAAALnpUWHRkYXRlOmNyZWF0ZQAAeNozMjA01zU01DU0DzEwsjIwszIx1jYwsDIwAABBmAULBTOBXQAAAC56VFh0ZGF0ZTptb2RpZnkAAHjaMzIwNNc1NNQ1NA8xMLIyMLMyMdY2MLAyMAAAQZgFCywMKdUAAAAASUVORK5CYII="/>
+    <image id="user-128x128-528036" width="35" height="35" transform="translate(22 682)" opacity="0.91" xlink:href="data:image/png;base64,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"/>
+    <g id="icon_content_add_24px" data-name="icon/content/add_24px" transform="translate(194 689)">
+      <rect id="Boundary" width="24" height="24" fill="none"/>
+      <path id="_Color" data-name=" ↳Color" d="M14,8H8v6H6V8H0V6H6V0H8V6h6Z" transform="translate(5 5)"/>
+    </g>
+    <g id="Dragged" transform="translate(47 312.072)" opacity="0.2">
+      <g id="States_Light_Overlay" data-name="States/Light 🌕/Overlay" transform="translate(-47 -8.072)">
+        <g id="Elevation_Light_08dp" data-name="Elevation/Light 🌕/08dp">
+          <g id="Shadow">
+            <g transform="matrix(1, 0, 0, 1, 0, -304)" filter="url(#Rectangle)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-10" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 304)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 0, -304)" filter="url(#Rectangle-2)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-11" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 304)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 0, -304)" filter="url(#Rectangle-3)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-12" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 304)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="States_Light_Overlay-2" data-name="States/Light 🌕/Overlay" transform="translate(-47 -87.072)">
+        <g id="Elevation_Light_08dp-2" data-name="Elevation/Light 🌕/08dp">
+          <g id="Shadow-2" data-name="Shadow">
+            <g transform="matrix(1, 0, 0, 1, 0, -225)" filter="url(#Rectangle-4)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-13" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 225)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 0, -225)" filter="url(#Rectangle-5)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-14" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 225)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 0, -225)" filter="url(#Rectangle-6)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-15" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 225)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="States_Light_Overlay-3" data-name="States/Light 🌕/Overlay" transform="translate(-47 -166.072)">
+        <g id="Elevation_Light_08dp-3" data-name="Elevation/Light 🌕/08dp">
+          <g id="Shadow-3" data-name="Shadow">
+            <g transform="matrix(1, 0, 0, 1, 0, -146)" filter="url(#Rectangle-7)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-16" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 146)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 0, -146)" filter="url(#Rectangle-8)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-17" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 146)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 0, -146)" filter="url(#Rectangle-9)" style="mix-blend-mode: multiply;isolation: isolate">
+              <rect id="Rectangle-18" data-name="Rectangle" width="414" height="79" rx="4" transform="translate(0 146)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

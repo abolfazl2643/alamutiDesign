@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="736" viewBox="0 0 414 736">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAACvElEQVRYw+2XzUojQRDHf5EgUaKCoihByEE8Cwpxc8ppWdi9qm/gwQGVCBq85BBwniB5AfGWk/Hgim/gQdEnMILfJ3NRA2YPO93z0emZjmEDC1bfqmqquqvrX/0f+JL/QWJkKFDlkltatLjlkioFMsS6D57C5oaWZt1gk/p88FHKvGqDi/VKmdHPhF/mOTK4WM8sdxY8TsUX4I0TLHLMkCTJDDksTnjz+VSIm4YfoOb58B6LobZ+Q1jcezxrDJjt/shT3yLJUO8kRc89HZmcouLZe9boxFnPOSpRzivS9Yppn2WcEhc0aHBBiXGfbZor+d1KWPgxnuTu/eGXePFd6QtLgRTiFE+M6ROUZe2zgfAfSmt+BFJk5V2U9agVLkWffiKwe/cUEz6/otyeBt17jsNdoHNKEg07TDLJjkRAKdBRd45+r134PuqOeS1gOXf021Kz7WjOA55rjr5On5ogI/c5ErCIAk1JzZQskl9G5NkyaoKCYzpWLOYJ4NixFNQEVcdkKRbzEoHlWKpqAgGVnGIxvWSAnISpIgJis4rFtE0BZiXcFBEYaDc5TYAmJqzAgjbBYFuMRI0KIYP6BKJEaQ3Ow4adK2l9icQlL3ZFEhb1lyzadLOrBJv6NhVAO+wqwaEeaGJUNJRREWOePPuc8UCLFg+csU+eeYV4jdDQjwp32G15tAtUeNTSlUcqLHi8t8KGnTuur0kAMMepESs6ZQ6ABNdh49r74NjALu/GxOudXcCOenDcJ7PJQQBWNdb5Rgoc4rVOLQC9A5pRT6b30XfXb35p2E6cn3I8uyv00ffSlr/98iOyMb/72F0EbfETrxarRr2/6mOoHVHHJjb9od792LL2htQxSH7r5Blu6zdMXmKnA/Lbjr43qLFBljQJEqTJskFNorZj+t6DH5Ce/EL14CewJ7+xX/Lv5Q+c7qVytzIenAAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <filter id="Rectangle" x="-8.5" y="127.5" width="429" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="-22" y="112" width="456" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="-16" y="123" width="444" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-4" x="-7.5" y="177.5" width="429" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-5" x="-21" y="162" width="456" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-5"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-6" x="-15" y="173" width="444" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_6_7_8_Plus_6">
+      <rect width="414" height="736"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_Plus_6" data-name="iPhone 6, 7, 8 Plus – 6" clip-path="url(#clip-iPhone_6_7_8_Plus_6)">
+    <rect width="414" height="736" fill="#fff"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="414" height="54" fill="#08d44c" opacity="0.46"/>
+    <text id="الموتی_من" data-name="الموتی من" transform="translate(297 32)" fill="#fff" font-size="22" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">الموتی من</tspan></text>
+    <rect id="outline_account_circle_black_24dp" width="36" height="35" rx="17.5" transform="translate(349 136)" opacity="0.46" fill="url(#pattern)"/>
+    <image id="outline_info_black_24dp" width="36" height="36" transform="translate(349 187)" opacity="0.46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABnUlEQVRYw+2XQcrCMBCFP8WN0CLoUroTryC46in0DvYC3XWnJ2hP0Z0uxGPoDRRU0APoyn+ThErbNFoa+MHJcl7mJTN5kwR+9h+sxYSQlD1nXrw4syclZEKrfvAhK068SsaJFcPvg/eJeZQGl+NBTP+b8DPulcHluDP7LHiH5C3Akx0BPiMcHEb4BOx4vmESOqbhu6wzE68EuIU4l4BrBrmma7b6TSa/EY4W7RBl6rQx2UWSWfvUaMfTzD6SKvBcQQ94xjXzOKh5cx1wwE2t3vvoWHhqFzcG5bBY5b44OXKVxYmStYjLVSshUQlCRwCRWl6JupcCcCk9OXoCh4vwL4vcbY7CvShNoZ4AFsJ/pJ13TpRqe193r55S9yTvDIVrW6v7bkWUMO9KhSuoRRCIKGneJaXi1yLwlUxzJiU21kyvKjKMldxyJjXg1iJwlRbsEzSeIpMiVxNoimxyTKsJNMfURGjVBBqhmbSKKgJtq2i82TXeri1cOI1fmRYu/cafLRYeXhaejo0/fi083y18QKx8oSx8Aq18Y3/WvP0BRWMFw2a7DC4AAAAASUVORK5CYII="/>
+    <text id="آگهی_های_من" data-name="آگهی های من" transform="translate(246 159)" fill="#707070" font-size="17" font-family="IRANSansX-Regular, IRANSansX"><tspan x="0" y="0">آگهی های من</tspan></text>
+    <text id="درباره_الموتی" data-name="درباره الموتی" transform="translate(252 209)" fill="#707070" font-size="17" font-family="IRANSansX-Regular, IRANSansX"><tspan x="0" y="0">درباره الموتی</tspan></text>
+    <rect id="Rectangle_6-2" data-name="Rectangle 6" width="357" height="53" rx="8" transform="translate(29 659)" fill="red" opacity="0.46"/>
+    <text id="خروج_از_حساب" data-name="خروج از حساب" transform="translate(148 690)" fill="#fff" font-size="20" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="0">خروج از حساب</tspan></text>
+    <text id="شما_با_شماره_09904640760_وارد_شده_اید" data-name="شما با شماره  09904640760   وارد شده اید" transform="translate(120 84)" fill="#707070" font-size="15" font-family="IRANSansX-Light, IRANSansX" font-weight="300"><tspan x="0" y="15" xml:space="preserve">   وارد شده اید</tspan><tspan y="15">09904640760</tspan><tspan y="15" xml:space="preserve">شما با شماره  </tspan></text>
+    <text id="بازگشت_" data-name="بازگشت " transform="translate(35 16)" fill="#fff" font-size="15" font-family="IRANSansX-Regular, IRANSansX" opacity="0.85"><tspan x="0" y="15">بازگشت</tspan><tspan y="15"> </tspan></text>
+    <g id="icon_navigation_chevron_left_24px" data-name="icon/navigation/chevron_left_24px" transform="translate(14 15)" opacity="0.85">
+      <rect id="Boundary" width="24" height="24" fill="none"/>
+      <path id="_Color" data-name=" ↳Color" d="M7.4,1.41,5.992,0,0,6l5.992,6L7.4,10.59,2.826,6Z" transform="translate(8 6)" fill="#fff"/>
+    </g>
+    <g id="States_Light_Overlay" data-name="States/Light 🌕/Overlay" transform="translate(-1 130)" opacity="0.27">
+      <g id="Elevation_Light_08dp" data-name="Elevation/Light 🌕/08dp" transform="translate(0 0)">
+        <g id="Shadow">
+          <g transform="matrix(1, 0, 0, 1, 1, -130)" filter="url(#Rectangle)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-7" data-name="Rectangle" width="414" height="50" rx="4" transform="translate(-1 130)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 1, -130)" filter="url(#Rectangle-2)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-8" data-name="Rectangle" width="414" height="50" rx="4" transform="translate(-1 130)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 1, -130)" filter="url(#Rectangle-3)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-9" data-name="Rectangle" width="414" height="50" rx="4" transform="translate(-1 130)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="States_Light_Overlay-2" data-name="States/Light 🌕/Overlay" transform="translate(0 180)" opacity="0.27">
+      <g id="Elevation_Light_08dp-2" data-name="Elevation/Light 🌕/08dp" transform="translate(0 0)">
+        <g id="Shadow-2" data-name="Shadow">
+          <g transform="matrix(1, 0, 0, 1, 0, -180)" filter="url(#Rectangle-4)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-10" data-name="Rectangle" width="414" height="50" rx="4" transform="translate(0 180)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, -180)" filter="url(#Rectangle-5)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-11" data-name="Rectangle" width="414" height="50" rx="4" transform="translate(0 180)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, -180)" filter="url(#Rectangle-6)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-12" data-name="Rectangle" width="414" height="50" rx="4" transform="translate(0 180)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line id="Line_24" data-name="Line 24" x2="413" transform="translate(1.5 125.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.17"/>
+  </g>
+</svg>
